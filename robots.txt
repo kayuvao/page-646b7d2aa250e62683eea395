@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.idaoyuan.cn/sitemap.xml
